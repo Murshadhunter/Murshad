@@ -1,1 +1,9 @@
 # Murshad
+
+
+
+
+
+
+
+PKG install git
