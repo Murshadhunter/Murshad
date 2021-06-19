@@ -6,4 +6,4 @@
 
 
 
-PKG install git
+pkg install git
